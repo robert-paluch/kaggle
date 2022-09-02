@@ -1,2 +1,2 @@
 # kaggle
-My scripts for kaggle competitions
+My scripts for kaggle competitions.
